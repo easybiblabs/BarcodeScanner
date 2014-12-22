@@ -1,3 +1,5 @@
+src/android/LibraryProject/gen/
+src/android/LibraryProject/local.properties
 .DS_Store
 bin/
 .classpath
